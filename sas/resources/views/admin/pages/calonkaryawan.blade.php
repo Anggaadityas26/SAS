@@ -2,7 +2,7 @@
 
 {{-- Template  --}}
 
-
+{{--masa sih ga masuk--}}
 @section('content')
 
 
