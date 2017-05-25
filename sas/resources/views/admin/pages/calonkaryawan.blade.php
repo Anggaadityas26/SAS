@@ -1,6 +1,6 @@
 @extends('admin.layouts.template')
 
-{{-- Template --}}
+{{-- Template  --}}
 
 
 @section('content')
