@@ -4,6 +4,6 @@
 @section('content')
 
 
-<h1>Add Admin</h1>
+<h1>Add Admin Testing</h1>
 
 @endsection
